@@ -40,4 +40,4 @@ The main objective of this project is to build a robust machine learning model t
 - **REST API:** Facilitates real-time predictions by connecting the model to external applications.
 
 ## Notebook
-
+https://github.com/akash-prajapati123/Wine-Quality-Prediction-Model/blob/main/Wine_Quality_Prediction.ipynb
