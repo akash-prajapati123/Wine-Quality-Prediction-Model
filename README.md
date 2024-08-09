@@ -5,7 +5,7 @@
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Notebook[(#notebook)
+- [Notebook](#notebook)
 
 ## Introduction
 
